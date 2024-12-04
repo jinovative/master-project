@@ -65,7 +65,7 @@ This project aims to create a scalable, user-friendly typing test web service th
 
 ---
 
-## 🌟 Collaboration with Professor Ji-Yong Shin
+## 🌟 Collaboration
 
 ### Guidance Requested:
 1. **Distributed Systems**:
