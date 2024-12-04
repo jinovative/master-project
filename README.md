@@ -85,16 +85,3 @@ This project aims to create a scalable, user-friendly typing test web service th
    - Ensuring the platform scales effectively after release.
 
 ---
-
-## 🔧 Setup & Installation
-
-### Prerequisites
-- Node.js
-- PostgreSQL
-- AWS Account (for cloud services)
-- Python (for data analysis)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/typing-test.git
