@@ -68,7 +68,7 @@ This project aims to create a scalable, user-friendly typing test web service th
 ## 🌟 Collaboration
 
 ### Guidance Requested:
- 1. **Comprehensive Guidance on Web Development
+ 1. - **Comprehensive Guidance on Web Development
   - Frontend Technology Stack:
 
   - Proficient usage of modern frontend frameworks like React, Vue.js, and Next.js.
