@@ -2,66 +2,124 @@
 
 A dynamic and feature-rich typing test platform designed to measure and improve typing skills with error analysis, personalized practice, and themed typing experiences.
 
+---
+
 ## 🚀 Project Overview
 
-This project aims to create a scalable, user-friendly typing test web service that goes beyond basic speed measurement. The platform includes advanced features like error analysis, personalized practice modes, and user-generated content support, making it a comprehensive solution for enhancing typing proficiency.
-
-### Features
-- **Basic Typing Test**: Measure typing speed (WPM), accuracy, and error count.
-- **Error Analysis**: Visualize typing weaknesses and suggest improvement areas.
-- **Themed Typing Modes**:
-  - Programmer Mode: Test with code snippets in various languages.
-  - Language-Specific Tests: Typing exercises in English, Korean, and more.
-  - Pop Culture Themes: Typing tests based on movie quotes or literature excerpts.
-- **Real-Time Competition**: Live multiplayer mode using WebSocket.
-- **DIY Self-Test Mode**: Upload and practice with custom text.
-- **Custom Typing Tests**: Users can create and share their own typing challenges.
+This project aims to create a scalable, user-friendly typing test web service that goes beyond basic speed measurement. The platform includes advanced features like error analysis, personalized practice modes, and user-generated content, making it a comprehensive solution for enhancing typing proficiency.
 
 ---
 
-## 🛠️ Technology Stack
+## ✨ Motivation
 
-### Frontend
-- **React.js + TypeScript**: Component-based UI development.
-- **Tailwind CSS**: For responsive and modern styling.
+Before transitioning into computer science, I underwent wrist surgery, which made prolonged typing painful. During my programming journey, I often faced the challenge of adapting to new tools like ergonomic keyboards and balancing productivity with physical constraints. This experience inspired me to create a typing service that optimizes practice while integrating meaningful coding exercises.
 
-### Backend
-- **Node.js + Express**: RESTful API design.
-- **PostgreSQL**: For storing user data and test configurations.
-- **WebSocket**: To enable real-time competition.
+### Broader Perspective:
+- Many programmers face repetitive strain injuries due to extended typing sessions.
+- Existing typing tools lack features tailored to coding needs, making practice inefficient for developers.
 
-### Data Analysis
-- **Python + Pandas/NumPy**: Analyzing user performance data.
-- **Scikit-learn**: Machine learning for personalized practice suggestions.
+---
 
-### Cloud Services
-- **AWS S3**: Storage for user data and custom tests.
-- **AWS Lambda**: Serverless computing for scalable data processing.
+## 🎯 Core Idea
+
+The service aims to address the repetitive and tedious aspects of mastering coding fundamentals by combining typing practice with coding exercises.
+
+### Unique Features:
+1. **Integrating Real-World Programming Tasks**:
+   - Users practice typing while reinforcing key coding concepts like sorting algorithms, data structure traversal, or async/await patterns.
+2. **Optimizing Productivity**:
+   - The dual focus on typing speed and coding mastery allows users to multitask effectively, saving time and reinforcing learning.
+
+---
+
+## 🛠️ Key Features
+
+### **General Features**:
+- **Basic Typing Test**: Measure typing speed (WPM), accuracy, and error count.
+- **Error Analysis**: Visualize typing weaknesses and suggest improvement areas.
+
+### **Specialized Modes**:
+1. **Programmer Mode**: Practice with real code snippets.
+   - Python: Loops, list comprehensions, pandas.
+   - JavaScript: Promises, async/await, DOM manipulation.
+   - TypeScript: Type annotations, interfaces, decorators.
+2. **Language-Specific Tests**: Typing exercises in multiple languages (e.g., English, Korean).
+3. **Pop Culture Themes**: Typing tests based on movie quotes or literature excerpts.
+
+### **Interactive Features**:
+- **Real-Time Competition**: Live multiplayer mode using WebSocket.
+- **DIY Self-Test Mode**: Upload and practice with custom text.
+- **Custom Typing Challenges**: Users can create and share their own tests.
+
+---
+
+## 🛠️ Technical Approach
+
+### **Frontend**:
+- **React.js + TypeScript**: Modular and lightweight UI development.
+- **Tailwind CSS**: Responsive and modern styling.
+
+### **Backend**:
+- **Node.js + Express**: RESTful API for data handling.
+- **PostgreSQL**: Relational database for storing user data and configurations.
+- **WebSocket**: Real-time communication for live competition modes.
+
+### **Data Analysis**:
+- **Python (Pandas/NumPy)**: Analyze user performance data.
+- **Scikit-learn**: Personalized practice suggestions based on typing trends.
+
+### **Cloud Services**:
+- **AWS S3**: Secure storage for user-uploaded texts.
+- **AWS Lambda**: Scalable serverless computing for real-time processing.
 
 ---
 
 ## 📋 Development Plan
 
-### 1. Planning & Design
-- Define core features (e.g., speed measurement, error analysis, themes).
-- Design wireframes and user experience flows.
+### **Phase 1: Planning & Design**
+- Define core features and design wireframes.
+- Map out user journeys and UX flows.
 
-### 2. MVP Development
+### **Phase 2: MVP Development**
 - Build the basic typing test with WPM and accuracy tracking.
-- Store results in a database and display visualizations.
+- Store results in the database and display visualizations.
 
-### 3. Advanced Features
-- Add themed typing modes (e.g., Programmer Mode, language tests).
-- Implement real-time competition using WebSocket.
-- Develop DIY self-test and user-generated content functionality.
+### **Phase 3: Advanced Features**
+- Add Programmer Mode and language-specific modules.
+- Implement real-time competition and user-generated content functionality.
 
-### 4. Optimization & Testing
-- Conduct performance testing (high-traffic scenarios, database optimization).
-- Gather user feedback for UI/UX improvements.
+### **Phase 4: Optimization & Testing**
+- Conduct performance tests under high-traffic scenarios.
+- Refine UI/UX based on user feedback.
 
-### 5. Deployment
-- Deploy using AWS (backend) and Vercel (frontend).
-- Monitor and refine based on user feedback.
+### **Phase 5: Deployment**
+- Deploy the frontend via Vercel and backend on AWS.
+- Set up monitoring systems for real-time performance insights.
+
+---
+
+## 🌟 Vision
+
+### **Core Goals**:
+1. **Lower the Entry Barrier**:
+   - Provide beginners with a hands-on, engaging platform.
+2. **Encourage Efficient Learning**:
+   - Combine typing practice with coding mastery for seamless skill development.
+3. **Address Accessibility**:
+   - Offer an inclusive experience for users with physical constraints like wrist pain.
+
+### **Future Possibilities**:
+1. **Advanced Topics**:
+   - Expand into design patterns, testing, or system architecture exercises.
+2. **Collaborations**:
+   - Partner with schools, bootcamps, or educational platforms.
+3. **AI-Driven Insights**:
+   - Personalize exercises based on user progress and weaknesses.
+
+---
+
+## 🔑 Why This Service Matters
+By combining productivity with skill-building, this typing service transforms a repetitive task into a valuable learning experience. It not only supports aspiring developers but also creates an engaging tool for anyone looking to enhance their programming and typing skills effectively.
 
 ---
 
