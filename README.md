@@ -68,54 +68,54 @@ This project aims to create a scalable, user-friendly typing test web service th
 ## 🌟 Collaboration
 
 ### Guidance Requested:
-**1. Comprehensive Guidance on Web Development
-  -Frontend Technology Stack:
+** 1. Comprehensive Guidance on Web Development
+  - Frontend Technology Stack:
 
-  -Proficient usage of modern frontend frameworks like React, Vue.js, and Next.js.
-  -Building design systems and leveraging CSS frameworks like Tailwind CSS or Material UI.
-  -Techniques for optimizing user experience (UX) and user interface (UI).
-  -Backend Technology Stack:
+  - Proficient usage of modern frontend frameworks like React, Vue.js, and Next.js.
+  - Building design systems and leveraging CSS frameworks like Tailwind CSS or Material UI.
+  - Techniques for optimizing user experience (UX) and user interface (UI).
+  - Backend Technology Stack:
 
-  -Efficiently working with web frameworks like Express, Django, and Flask.
-  -Designing and implementing REST APIs and GraphQL endpoints.
-  -Database integration and optimization (SQL vs NoSQL).
-**2. Project Architecture and Design
-  -Monolithic vs Microservices Architecture:
+  - Efficiently working with web frameworks like Express, Django, and Flask.
+  - Designing and implementing REST APIs and GraphQL endpoints.
+  - Database integration and optimization (SQL vs NoSQL).
+** 2. Project Architecture and Design
+  - Monolithic vs Microservices Architecture:
   
-  -Choosing the appropriate architecture based on project scale.
-  -Frontend-Backend Integration:
+  - Choosing the appropriate architecture based on project scale.
+  - Frontend-Backend Integration:
   
-  -Managing data flow efficiently through well-designed APIs.
-  -Deployment Strategies:
+  - Managing data flow efficiently through well-designed APIs.
+  - Deployment Strategies:
   
-  -Setting up CI/CD pipelines for seamless integration and deployment.
-  -Creating robust deployment environments using Docker and Kubernetes.
-  -Utilizing cloud services like AWS, Google Cloud, or Vercel.
-**3. Web Performance Optimization
-  -Frontend Optimization:
+  - Setting up CI/CD pipelines for seamless integration and deployment.
+  - Creating robust deployment environments using Docker and Kubernetes.
+  - Utilizing cloud services like AWS, Google Cloud, or Vercel.
+** 3. Web Performance Optimization
+  - Frontend Optimization:
   
-  -Implementing lazy loading, code splitting, and tree-shaking techniques.
-  -Optimizing images and leveraging CDNs (Content Delivery Networks).
-  -Backend Optimization:
+  - Implementing lazy loading, code splitting, and tree-shaking techniques.
+  - Optimizing images and leveraging CDNs (Content Delivery Networks).
+  - Backend Optimization:
   
-  -Enhancing API response times through caching and database indexing.
-  -Utilizing asynchronous processing and parallelization.
-**4. Web Security and Authentication
-  -Security Best Practices:
+  - Enhancing API response times through caching and database indexing.
+  - Utilizing asynchronous processing and parallelization.
+** 4. Web Security and Authentication
+  - Security Best Practices:
   
-  -Managing CORS policies and enabling HTTPS.
-  -Defending against common threats like SQL Injection, XSS, and CSRF attacks.
-  -Authentication and Authorization:
+  - Managing CORS policies and enabling HTTPS.
+  - Defending against common threats like SQL Injection, XSS, and CSRF attacks.
+  - Authentication and Authorization:
   
-  -Comparing and implementing OAuth2.0, JWT, and session-based authentication.
-  -Applying encryption techniques for protecting user data.
-**5. Code Review and Debugging Guidance
-  -Improving Code Quality:
+  - Comparing and implementing OAuth2.0, JWT, and session-based authentication.
+  - Applying encryption techniques for protecting user data.
+** 5. Code Review and Debugging Guidance
+  - Improving Code Quality:
   
-  -Conducting code reviews to ensure best practices and optimize code.
-  -Managing code style using tools like Linter and Prettier.
-  -Debugging Techniques:
+  - Conducting code reviews to ensure best practices and optimize code.
+  - Managing code style using tools like Linter and Prettier.
+  - Debugging Techniques:
   
-  -Utilizing browser developer tools (DevTools) for efficient debugging.
+  - Utilizing browser developer tools (DevTools) for efficient debugging.
   -Employing error tracking tools like Sentry or LogRocket.
 ---
