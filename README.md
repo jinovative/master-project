@@ -33,6 +33,7 @@ The service aims to address the repetitive and tedious aspects of mastering codi
 ---
 
 ## 🛠️ Key Features
+![Freeform-IMTYPER Project-20241218@2x](https://github.com/user-attachments/assets/ef8cbfc2-5b17-4ba9-9f67-af92a0de99f9)
 
 ### **General Features**:
 - **Basic Typing Test**: Measure typing speed (WPM), accuracy, and error count.
