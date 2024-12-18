@@ -68,7 +68,7 @@ This project aims to create a scalable, user-friendly typing test web service th
 ## 🌟 Collaboration
 
 ### Guidance Requested:
-** 1. Comprehensive Guidance on Web Development
+ 1. **Comprehensive Guidance on Web Development
   - Frontend Technology Stack:
 
   - Proficient usage of modern frontend frameworks like React, Vue.js, and Next.js.
@@ -79,7 +79,7 @@ This project aims to create a scalable, user-friendly typing test web service th
   - Efficiently working with web frameworks like Express, Django, and Flask.
   - Designing and implementing REST APIs and GraphQL endpoints.
   - Database integration and optimization (SQL vs NoSQL).
-** 2. Project Architecture and Design
+2. **Project Architecture and Design
   - Monolithic vs Microservices Architecture:
   
   - Choosing the appropriate architecture based on project scale.
@@ -91,7 +91,7 @@ This project aims to create a scalable, user-friendly typing test web service th
   - Setting up CI/CD pipelines for seamless integration and deployment.
   - Creating robust deployment environments using Docker and Kubernetes.
   - Utilizing cloud services like AWS, Google Cloud, or Vercel.
-** 3. Web Performance Optimization
+3. **Web Performance Optimization
   - Frontend Optimization:
   
   - Implementing lazy loading, code splitting, and tree-shaking techniques.
@@ -100,7 +100,7 @@ This project aims to create a scalable, user-friendly typing test web service th
   
   - Enhancing API response times through caching and database indexing.
   - Utilizing asynchronous processing and parallelization.
-** 4. Web Security and Authentication
+4. **Web Security and Authentication
   - Security Best Practices:
   
   - Managing CORS policies and enabling HTTPS.
@@ -109,7 +109,7 @@ This project aims to create a scalable, user-friendly typing test web service th
   
   - Comparing and implementing OAuth2.0, JWT, and session-based authentication.
   - Applying encryption techniques for protecting user data.
-** 5. Code Review and Debugging Guidance
+5. **Code Review and Debugging Guidance
   - Improving Code Quality:
   
   - Conducting code reviews to ensure best practices and optimize code.
